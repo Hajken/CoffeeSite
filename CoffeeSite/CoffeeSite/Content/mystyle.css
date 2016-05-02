@@ -1,2 +1,14 @@
 ﻿body {
 }
+
+.features .glyphicon{
+    font-size:32px;
+    color:red;
+}
+.features li{
+    padding-right : 10%;
+}
+.myfooter{
+    background-color:black;
+    color: white;
+}
