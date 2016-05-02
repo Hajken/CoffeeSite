@@ -66,7 +66,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\coffeeprivate.jpg" />
     <Content Include="images\is-coffee-paleo.jpg" />
+    <Content Include="images\kaffemaskinLarge.jpg" />
+    <Content Include="images\kaffemaskinMedium.jpg" />
+    <Content Include="images\kaffepartycompany.jpg" />
     <Content Include="images\no-profile-avatar-f.gif" />
     <Content Include="images\nobody_m.original.jpg" />
     <Content Include="packages.config" />
