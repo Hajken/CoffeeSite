@@ -1,4 +1,6 @@
 ﻿body {
+    background-image: url("/images/is-coffee-paleo.jpg");
+    color:white;
 }
 
 .features .glyphicon{
@@ -11,4 +13,7 @@
 .myfooter{
     background-color:black;
     color: white;
+}
+.myheaderstyle{
+    padding-right:10%;
 }
